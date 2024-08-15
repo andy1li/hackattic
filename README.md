@@ -1,2 +1,3 @@
-# hackattic
+# Hackattic
+
 Trying out hackattic.com
